@@ -16,7 +16,7 @@ function GifExpertApp() {
     return (
         <>
         <h2>
-            GifExpertApp
+            Buscador de gif Mamalooon
         </h2>
 
         <AddCategory setCategories={ setCategories } />
